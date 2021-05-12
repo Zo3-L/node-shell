@@ -1,0 +1,23 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bash.js",
+  "scripts": {
+    "start": "nodemon bash.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zo3-L/node-shell.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zo3-L/node-shell/issues"
+  },
+  "homepage": "https://github.com/Zo3-L/node-shell#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
